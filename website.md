@@ -2,11 +2,11 @@
 
 ## About
 ### 
-I am a PhD student in the Department of Biostatistics at Johns Hopkins University, supervised by Professor Abhi Datta. I am broadly interested in developing and applying statistical methods to quantify and understand drivers of differences in health outcomes, particularly in multi-country contexts.
+I am a PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with Abhi Datta. I am broadly interested in developing and applying statistical methods for complex data in global and environmental health contexts. 
 
-I previously studied Mathematics at the University of Oxford. After graduating I worked as a Research Assistant for Professor Majid Ezzati at Imperial College London, where I led an analysis updating the WHO's national obesity estimates, and spent four months as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center in Kigali, Rwanda. 
+Before joining JHU, I worked as a research assistant for Majid Ezzati at Imperial College London, spent some time as a visiting researcher at the African Institute for Mathematical Sciences, and studied Mathematics at the University of Oxford. 
 
-In my free time I enjoy cycling, climbing, and reading.
+Outside of research, I enjoy running, cycling, and reading. 
 
 <img src="../media/me.png" alt="picture" width="400"/>
 
@@ -28,6 +28,6 @@ NCD Risk Factor Collaboration (NCD-RisC). [Diminishing benefits of urban living 
 
 ## CV
 ### 
-My CV can be downloaded [here](../files/Nowell Phelps Resume 01 08 2025.pdf).
+My CV can be downloaded [here](../files/Nowell Phelps Resume 10 01 2025.pdf).
 
 
