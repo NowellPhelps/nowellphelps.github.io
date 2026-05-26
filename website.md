@@ -1,12 +1,12 @@
-# Nowell Phelps
+# Nowell Hollier Phelps
 
 ## About
 ### 
 I am a rising third-year PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with [Professor Abhi Datta](https://abhidatta.com). I am broadly interested in developing and applying statistical methods for extracting insights from complex data in global and environmental health contexts.
 
-I previously worked as a research assistant for Professor Majid Ezzati at Imperial College London, as part of the [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html). My work modelling global trends in obesity contributed to co-first-author papers in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext) and [Nature](https://www.nature.com/articles/s41586-026-10383-0). I also spent several months as a visiting researcher at [AIMS-RiC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL I graduated with distinction from the University of Oxford, where I studied mathematics.
+I previously worked as a research assistant for Professor Majid Ezzati at Imperial College London, as part of the [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html). My work modelling global trends in obesity contributed to co-first-author papers in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext) and [Nature](https://www.nature.com/articles/s41586-026-10383-0). I also spent several months as a visiting researcher at [AIMS RIC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL I graduated with distinction from the University of Oxford, where I studied mathematics.
 
-Outside of research, I enjoy long bike trips, running, and reading.
+Outside of research, I enjoy going on long bike trips, running, and reading.
 
 <img src="../media/me.png" alt="picture" width="400"/>
 
