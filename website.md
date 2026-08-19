@@ -2,9 +2,9 @@
 
 ## About
 ### 
-I am a rising third-year PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with [Professor Abhi Datta](https://abhidatta.com). I am broadly interested in developing and applying statistical methods for extracting insights from complex data in global and environmental health contexts.
+Hello! I am a third-year PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with [Abhi Datta](https://abhidatta.com). I am broadly interested in developing and applying statistical methods to extract insights from complex data in global and environmental health contexts.
 
-I previously worked as a research assistant for Professor Majid Ezzati at Imperial College London, as part of the [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html). My work modelling global trends in obesity contributed to co-first-author papers in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext) and [Nature](https://www.nature.com/articles/s41586-026-10383-0). I also spent several months as a visiting researcher at [AIMS RIC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL I graduated with distinction from the University of Oxford, where I studied mathematics.
+I previously worked as a research assistant for Majid Ezzati at Imperial College London, as part of the [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html). My work modelling global trends in obesity contributed to co-first-author papers in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext) and [Nature](https://www.nature.com/articles/s41586-026-10383-0). I also spent several months as a visiting researcher at [AIMS RIC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL I studied mathematics at the University of Oxford.
 
 Outside of research, I enjoy going on long bike trips, running, and reading.
 
@@ -27,3 +27,13 @@ NCD Risk Factor Collaboration (NCD-RisC) [Diminishing benefits of urban living f
 ## CV
 ### 
 My CV can be downloaded [here](../files/Nowell%20Phelps%20Resume%2013%2005%202026.pdf).
+
+## Photos
+### 
+<img src="../media/track.png" alt="photogragh of train tracks"/>
+<img src="../media/moon.png" alt="photogragh of the moon above a rock formation"/>
+<img src="../media/dog.png" alt="photogragh of a dog resting in the sun"/>
+<img src="../media/emma_salt.png" alt="photogragh of Emma (my sister) running on some salt flats"/>
+<img src="../media/rosa_tsiblisi.png" alt="photogragh of Rosa (my sister) chopping some sweet potatoes and red onions"/>
+<img src="../media/truck_schoolbus.png" alt="photogragh of a truck and a schoolbus"/>
+<img src="../media/luke_benn.png" alt="photogragh of Luke and George at a red table "/>
