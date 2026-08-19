@@ -27,13 +27,3 @@ NCD Risk Factor Collaboration (NCD-RisC) [Diminishing benefits of urban living f
 ## CV
 ### 
 My CV can be downloaded [here](../files/Nowell-Phelps-Resume-2026-08-19.pdf).
-
-## Photos
-### 
-<img src="../media/track.png" alt="photogragh of train tracks"/>
-<img src="../media/moon.png" alt="photogragh of the moon above a rock formation"/>
-<img src="../media/dog.png" alt="photogragh of a dog resting in the sun"/>
-<img src="../media/emma_salt.png" alt="photogragh of Emma (my sister) running on some salt flats"/>
-<img src="../media/rosa_tsiblisi.png" alt="photogragh of Rosa (my sister) chopping some sweet potatoes and red onions"/>
-<img src="../media/truck_schoolbus.png" alt="photogragh of a truck and a schoolbus"/>
-<img src="../media/luke_benn.png" alt="photogragh of Luke and George at a red table "/>
