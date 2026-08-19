@@ -26,7 +26,7 @@ NCD Risk Factor Collaboration (NCD-RisC) [Diminishing benefits of urban living f
 
 ## CV
 ### 
-My CV can be downloaded [here](../files/Nowell%20Phelps%20Resume%2013%2005%202026.pdf).
+My CV can be downloaded [here](../files/Nowell-Phelps-Resume-2026-08-19.pdf).
 
 ## Photos
 ### 
