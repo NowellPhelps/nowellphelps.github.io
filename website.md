@@ -2,11 +2,13 @@
 
 ## About
 ### 
-Hello! I am a third-year PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with [Abhi Datta](https://abhidatta.com). I am broadly interested in developing and applying statistical methods to extract insights from complex data in global and environmental health contexts.
+Hello! I'm a third-year PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with [Abhi Datta](https://abhidatta.com). I am broadly interesting in developing and applying statistical methods to derive insights from complex data in global health and environmental health contexts. My methodological interests span Bayesian statistics, causal inference, and machine learning.
 
-I previously worked as a research assistant for Majid Ezzati at Imperial College London, as part of the [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html). My work modelling global trends in obesity contributed to co-first-author papers in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext) and [Nature](https://www.nature.com/articles/s41586-026-10383-0). I also spent several months as a visiting researcher at [AIMS RIC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL I studied mathematics at the University of Oxford.
+I care deeply about statistical education; I serve as an organizer of both the [JHU BLAST Working Group](https://jhublast.github.io) and the Biostatistics Student Organization's curriculum committee, and am developing a course on data visualization which I will teach to undergraduate students in 2027 as a Gordis Teaching Fellow.
 
-Outside of research, I enjoy going on long bike trips, running, and reading.
+Previously, I worked as a research assistant for Majid Ezzati at Imperial College London, as part of the core [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html) team. My work modelling global trends in obesity contributed to co-first-author papers in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext) and [Nature](https://www.nature.com/articles/s41586-026-10383-0). I also spent several months as a visiting researcher at [AIMS RIC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL, I studied mathematics at the University of Oxford.
+
+Outside of academia, I enjoy bikepacking, hiking, running, and reading. Please feel free to reach out to me at nphelps2 [at] jh [dot] edu!
 
 <img src="../media/me.png" alt="picture" width="400"/>
 
@@ -26,4 +28,4 @@ NCD Risk Factor Collaboration (NCD-RisC) [Diminishing benefits of urban living f
 
 ## CV
 ### 
-My CV can be downloaded [here](../files/Nowell-Phelps-Resume-2026-08-19.pdf).
+My CV can be downloaded [here](../files/Nowell-Phelps-Resume-2026-09-01.pdf).
