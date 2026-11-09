@@ -2,11 +2,11 @@
 
 ## About
 ### 
-I'm a PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with [Abhi Datta](https://abhidatta.com). I am broadly interesting in developing and applying statistical methods to derive insights from complex data in global health and environmental health contexts. My methodological interests span Bayesian statistics, causal inference, and machine learning. I also care deeply about statistical education and am developing a course on data visualization which I will teach to undergraduates in 2027 as a Gordis Teaching Fellow.
+I'm a PhD student in the Department of Biostatistics at Johns Hopkins University, where I am working with [Abhi Datta](https://abhidatta.com). I am broadly interested in developing and applying statistical methods to derive insights from complex data in global health and environmental health contexts. Methodologically, my interest span Bayesian statistics, causal inference, and machine learning. I am also excited to be developing a course on data visualization which I will teach in Fall 2027 as a Gordis Teaching Fellow.
 
-Previously, I worked as part of the core [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html) team at Imperial College London. My work there modelling global trends in obesity contributed to co-first-author papers in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext) and [Nature](https://www.nature.com/articles/s41586-026-10383-0). I also spent several months as a visiting researcher at [AIMS RIC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL, I studied mathematics at the University of Oxford.
+Previously, I worked on modelling global trends in obesity as part of the core [NCD Risk Factor Collaboration](https://www.ncdrisc.org/index.html) team at Imperial College London. I also spent several months as a visiting researcher at [AIMS RIC](https://aimsric.org) in Kigali, Rwanda. Before joining ICL, I studied mathematics at the University of Oxford.
 
-Outside of research, I enjoy bikepacking, running, and reading. Please feel free to reach out to me at nphelps2 [at] jh [dot] edu!
+Outside of research, I enjoy biking, running, and reading. Please feel free to reach out to me at nphelps2 [at] jh [dot] edu!
 
 <img src="../media/me.png" alt="picture" width="400"/>
 
@@ -14,7 +14,7 @@ Outside of research, I enjoy bikepacking, running, and reading. Please feel free
 ### Statistical Methodology
 Victor PF Lhoste, Yefeng Fan, James E Bennett, Sarah Filippi, Christopher J Paciorek, Junyang Wang, Bin Zhou, Theo Rashid, <b>Nowell H Phelps</b>, Majid Ezzati [Hierarchical Bayesian mixture model for subgroup-specific cardiometabolic phenotypes](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnag109/8869169) <em>Journal of the Royal Statistical Society Series A</em>, 2026.
 
-### Comparative Global Health
+### Global Health
 <b>[Joint lead author]</b> NCD Risk Factor Collaboration (NCD-RisC) [Obesity rise plateaus in developed nations and accelerates in developing nations](https://www.nature.com/articles/s41586-026-10383-0). <em>Nature</em>, 2026.
 
 NCD Risk Factor Collaboration (NCD-RisC) [Worldwide trends in diabetes prevalence and treatment from 1990 to 2022: a pooled analysis of 1108 population-representative studies with 141 million participants](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2824%2902317-1/fulltext). <em>The Lancet</em>, 2024.
@@ -29,4 +29,4 @@ NCD Risk Factor Collaboration (NCD-RisC) [Diminishing benefits of urban living f
 
 ## CV
 ### 
-My CV can be downloaded [here](../files/Nowell-Phelps-Resume-2026-09-01.pdf).
+My CV can be downloaded [here](../files/Nowell-Phelps-Resume-2026-11.pdf).
